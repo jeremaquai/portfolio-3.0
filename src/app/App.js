@@ -4,11 +4,13 @@ import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import './App.css';
 import Header from '../features/header/Header';
+import Footer from '../features/footer/Footer';
 
 function App() {
   return (
     <Router className="App">
      <Header />
+     <Footer />
     </Router>
   );
 }
