@@ -92,11 +92,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
+* [Node.js](https://nodejs.org/en/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
+* [Redux Toolkit](https://redux-toolkit.js.org/)
+* [React Redux](https://react-redux.js.org)
+* [React Router 5.2.3](https://v5.reactrouter.com/web/guides/quick-start)
 * [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)

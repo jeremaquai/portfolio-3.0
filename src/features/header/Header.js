@@ -11,7 +11,7 @@ export default function Header() {
                     Jeremaquai's Portfolio
                 </h1>
             </div>
-            <div className="nav">
+            <nav>
                 <div className="link">
                     <Link to={ HEADERPATHS.welcome } >
                         WELCOME
@@ -32,7 +32,7 @@ export default function Header() {
                         CONTACT ME
                     </Link>
                 </div>
-            </div>
+            </nav>
         </header>
     );
 }
