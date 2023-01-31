@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jeremaquai/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./public/logo192.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -153,10 +153,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+- [ x ] Header
+    - [ x ] Simple Link Buttons to different pages
+    [![Product Name Screen Shot][ReadMe-screenshotOne]]()
+    - [ ] Interactable menu for the WebApp that opens and closes at the click of a button
 - [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ x ] Footer
+    - [ x ] copyright symbol and programmer name
+    [![Product Name Screen Shot][ReadMe-screenshotOne]]()
 
 See the [open issues](https://github.com/jeremaquai/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -228,3 +232,4 @@ Project Link: [https://github.com/jeremaquai/repo_name](https://github.com/jerem
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jeremiah-sparks-0ba36a239
 [product-screenshot]: images/screenshot.png
+[ReadMe-screenshotOne]: ./src/images/ReadmeScreenshots/PortfolioScreenshotOne.png
