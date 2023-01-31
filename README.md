@@ -153,13 +153,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ x ] Header
-    - [ x ] Simple Link Buttons to different pages
+- [x] Header
+    - [x] Simple Link Buttons to different pages
     [![Product Name Screen Shot][ReadMe-screenshotOne]]()
     - [ ] Interactable menu for the WebApp that opens and closes at the click of a button
 - [ ] Feature 2
-- [ x ] Footer
-    - [ x ] copyright symbol and programmer name
+- [x] Footer
+    - [x] copyright symbol and programmer name
     [![Product Name Screen Shot][ReadMe-screenshotOne]]()
 
 See the [open issues](https://github.com/jeremaquai/repo_name/issues) for a full list of proposed features (and known issues).
